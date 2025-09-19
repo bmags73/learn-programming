@@ -1,4 +1,4 @@
-# 🚀 Learn Programming
+# 🚀 Learn Programming In Linux!
 
 My programming learning journey - Python, C, and beyond!
 
