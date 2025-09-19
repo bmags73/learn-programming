@@ -4,15 +4,15 @@ My programming learning journey - Python, C, and beyond!
 
 ## 📁 Structure
 
-learn-programming/
-├── python/
-│   ├── basics/daily/
-│   ├── functions/
-│   └── projects/
+learn-programming\n
+├── python\n
+│   ├── basics/daily\n
+│   ├── functions\n
+│   └── projects/\n
 ├── c/
-│   ├── basics/daily/
-│   ├── functions/
-│   └── projects/
+│   ├── basics/daily\n
+│   ├── functions\n
+│   └── projects\n
 └── docs/
 
 ## 🎯 Current Progress
