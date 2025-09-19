@@ -1,0 +1,94 @@
+🎯 Your Python Learning Environment - Complete Reference
+
+📚 STARTING YOUR ENVIRONMENT
+
+```bash
+# Start the split-screen learning environment
+learn-python
+```
+
+This opens:
+
+Left side: Neovim for writing code
+Right side: IPython for testing code
+
+To exit: Press Ctrl+b then d (detach) or type exit in both panes
+
+✨ COPILOT (AI Code Assistant)
+How it works:
+
+Start typing Python code
+Wait 1-2 seconds
+Gray "ghost text" appears with suggestions
+
+Controls:
+
+Tab = Accept the suggestion
+Esc = Reject/hide suggestion
+Alt+] = Next suggestion
+Alt+[ = Previous suggestion
+
+Test it: Type def calculate_ and wait
+
+📝 NEOVIM COMMANDS
+Basic Movement:
+
+i = Insert mode (start typing)
+Esc = Normal mode (stop typing)
+:w = Save file
+:q = Quit
+:wq = Save and quit
+
+Copy/Paste (System Clipboard):
+
+v = Visual mode (start selecting)
+V = Visual line mode (select whole lines)
+y = Copy (yank) selection
+p = Paste after cursor
+P = Paste before cursor
+
+Leader Key Commands (Leader = Space bar):
+
+Space sv = Send selection to IPython (visual mode)
+Space sp = Send paragraph to IPython
+Space ss = Send cell to IPython
+
+
+🚀 SENDING CODE TO IPYTHON
+Method 1: Visual Select and Send
+
+Press V to start selecting lines
+Move up/down to select code
+Press Space sv to send to IPython
+See output in right pane!
+
+Method 2: Send Paragraph
+
+Put cursor in a function
+Press Space sp
+Entire function goes to IPython
+
+
+🐛 DEBUGGING (Optional - If you installed debug.lua)
+
+Space db = Toggle breakpoint (red dot)
+Space dc = Continue/Start debugging
+Space do = Open debug UI
+
+
+📁 FILE MANAGEMENT
+In Neovim:
+
+Space e = Open file explorer (left sidebar)
+Space ff = Find files (fuzzy search)
+Space fg = Search text in files (grep)
+Space , = Switch between recent files
+
+
+🎨 VISUAL HELPERS ACTIVE
+You have these visual aids running:
+
+Rainbow brackets - Nested parentheses in different colors
+Word highlighting - Current word under cursor lights up everywhere
+Smooth scrolling - Ctrl+d/Ctrl+u scroll smoothly
+Yank flash - Text flashes when you copy it
