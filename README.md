@@ -4,6 +4,7 @@ My programming learning journey - Python, C, and beyond!
 
 ## 📁 Structure
 
+```bash
 learn-programming/
 ├── python/           # Python learning path
 │   ├── basics/daily/ # Daily exercises
@@ -14,6 +15,7 @@ learn-programming/
 │   ├── functions/    # Helper scripts
 │   └── projects/     # Network tools, system utils
 └── docs/             # Notes and references
+```
 
 ## 🎯 Current Progress
 
