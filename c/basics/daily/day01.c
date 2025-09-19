@@ -120,6 +120,9 @@ int main() {
     printf("    C: char arrays mutable, char* not\n\n");
     
     printf("🚀 Next: Run the Python version to compare!\n");
+
+    printf("\n🧪 LIVE EDIT TEST:\n");
+    printf("If you see this, auto-compile works!\n");
     
     return 0;
 }
