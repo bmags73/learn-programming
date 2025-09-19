@@ -5,16 +5,51 @@ My programming learning journey - Python, C, and beyond!
 ## 📁 Structure
 
 ```bash
-learn-programming/
-├── python/           # Python learning path
-│   ├── basics/daily/ # Daily exercises
-│   ├── functions/    # Helper functions
-│   └── projects/     # Real scripts (routes.py, etc.)
-├── c/                # C learning path
-│   ├── basics/daily/ # Daily exercises
-│   ├── functions/    # Helper scripts
-│   └── projects/     # Network tools, system utils
-└── docs/             # Notes and references
+learn-programming
+├── c                 # C learning path
+│   ├── basics
+│   │   └── daily     # Daily exercises
+│   │       ├── day01
+│   │       └── day01.c
+│   ├── functions     # Helper functions
+│   │   └── learn-c.fish
+│   └── projects
+│       ├── test_net_setup.c
+│       └── test_setup.c
+├── docs             # Notes and references
+│   ├── instructions.txt
+│   ├── new-day_claude_url
+│   └── obsidian
+├── functions        # Helper functions
+│   ├── gstatus.fish
+│   ├── menu.fish
+│   └── status.fish
+├── python           # Python learning path
+│   ├── basics
+│   │   └── daily    # Daily exercises
+│   │       └── day01.py
+│   ├── cheatsheet.md
+│   ├── functions    # Helper functions
+│   │   └── learn-python.fish
+│   └── projects     # Network tools, system utils
+│       └── basics.py
+├── README.md
+├── scripts
+│   └── setup-new-machine.sh
+└── vault
+    ├── c
+    ├── cheatsheets
+    │   ├── c.md
+    │   ├── git.md
+    │   ├── organization.md
+    │   ├── python.md
+    │   ├── tmux.md
+    │   └── vim.md
+    ├── dashboard.md
+    ├── python
+    ├── README.md
+    └── resources
+        └── summary.md
 ```
 
 ## 🎯 Current Progress
