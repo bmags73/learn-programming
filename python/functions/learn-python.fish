@@ -18,25 +18,19 @@ print("🚀 Starting Python learning!")
 ' >$latest_file
     end
 
-    # Start tmux session
+    # Kill existing session
     tmux kill-session -t learn-python 2>/dev/null
+
+    # Create new session with nvim
     tmux new-session -s learn-python -d
     tmux send-keys -t learn-python "nvim $latest_file" C-m
+
+    # Split window horizontally for right pane
     tmux split-window -h -t learn-python
+
+    # Send IPython to right pane
     tmux send-keys -t learn-python.1 "cd $base_dir && ipython" C-m
+
+    # Attach to session
     tmux attach-session -t learn-python
-    endunction learn-python --description 'Start Python learning environment'
-    # Check if session already exists
-    if tmux has-session -t py 2>/dev/null
-        echo "Session 'py' already exists. Attaching..."
-        tmux attach -t py
-    else
-        echo "Starting Python learning environment..."
-        tmux new-session -d -s py -n code
-        tmux send-keys -t py:code nvim C-m
-        tmux split-window -h -t py:code -p 40
-        tmux send-keys -t py:code.1 ipython C-m
-        tmux select-pane -t py:code.0
-        tmux attach -t py
-    end
 end

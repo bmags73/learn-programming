@@ -17,12 +17,20 @@ int main() {
 }' >$latest_file
     end
 
-    # Kill existing session if it exists
+    # Kill existing session
     tmux kill-session -t c-dev 2>/dev/null
 
-    # Create new session with simple, working commands
-    tmux new-session -s c-dev -d "nvim $latest_file"
+    # Create new session with nvim
+    tmux new-session -s c-dev -d
+    tmux send-keys -t c-dev "nvim $latest_file" C-m
+
+    # Split window horizontally for right pane
     tmux split-window -h -t c-dev
-    tmux send-keys -t c-dev.1 "watch -n 1 'gcc -Wall $latest_file && ./a.out'" C-m
+
+    # Send watch command to right pane
+    set -l basename (string replace '.c' '' $latest_file)
+    tmux send-keys -t c-dev.1 "watch -n 1 'gcc -Wall $latest_file -o $basename 2>&1 && echo \"---OUTPUT---\" && ./$basename'" C-m
+
+    # Attach to session
     tmux attach-session -t c-dev
 end
