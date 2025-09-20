@@ -1,0 +1,19 @@
+{
+  "obsidian-zotero-desktop-connector:zdc-exp-Literature Note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-Inline": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ]
+}

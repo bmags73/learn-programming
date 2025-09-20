@@ -12,13 +12,25 @@ core
 *~
 
 # Obsidian
-vault/.obsidian/workspace*
-vault/.obsidian/cache
-vault/.obsidian/plugins/
 vault/.trash/
+vault/.obsidian/cache
+vault/.obsidian/plugins/*/data.json
+vault/.obsidian/workspace*
+vault/attachments/*/
 
 # Python files  
 __pycache__/
 *.pyc
 .pytest_cache/
 *.egg-info/
+
+# Zotero storage (PDFs are huge and often copyrighted)
+zotero/storage/
+*.pdf
+
+# Better BibTeX cache
+zotero/better-bibtex*
+zotero/.DS_Store
+
+# Keep the bibliography file
+!zotero/bibliography.bib

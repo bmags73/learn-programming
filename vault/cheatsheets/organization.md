@@ -1,22 +1,20 @@
 # SUGGESTED OBSIDIAN STRUCTURE
 
 ## Vault Organization
-Programming/
-├── Cheatsheets/
-│   ├── tmux.md
-│   ├── vim.md
-│   ├── python.md
+vault
+├── c
+├── cheatsheets
 │   ├── c.md
-│   └── git.md
-├── Projects/
-│   ├── routes-script.md
-│   └── log-parser.md
-├── Daily/
-│   ├── 2024-01-18-setup.md
-│   └── progress-tracker.md
-└── Resources/
-    ├── learning-path.md
-    └── environment-setup.md
+│   ├── git.md
+│   ├── organization.md
+│   ├── python.md
+│   ├── tmux.md
+│   └── vim.md
+├── dashboard.md
+├── python
+├── README.md
+└── resources
+    └── summary.md
 
 ## Obsidian Features to Use
 - [ ] Link cheatsheets with [[tmux]]

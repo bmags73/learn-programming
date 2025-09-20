@@ -2,6 +2,8 @@
 
 My Obsidian knowledge base for programming learning!
 
+## [[dashboard|Jump right in/Dashboard]]
+
 ## Structure
 - c/ - C Programming notes
 - **cheatsheets/** - Quick reference guides
