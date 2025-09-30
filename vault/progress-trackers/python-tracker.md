@@ -1,0 +1,128 @@
+# 🐍 Python 100 Days - Progress Tracker
+
+**Started:** ___________  
+**Target Completion:** ___________
+
+---
+
+## 📊 Progress: 0/100 days (0%)
+
+---
+
+## 🟢 BEGINNER (Days 1-30)
+
+- [ ] **Day 1** - Band Name Generator (print, input, variables)
+- [ ] **Day 2** - Tip Calculator (data types, math)
+- [ ] **Day 3** - Treasure Island (if/else, conditionals)
+- [ ] **Day 4** - Rock Paper Scissors (lists, random)
+- [ ] **Day 5** - Password Generator (for loops)
+- [ ] **Day 6** - Escaping Maze (functions, while loops)
+- [ ] **Day 7** - Hangman (combining concepts)
+- [ ] **Day 8** - Caesar Cipher (function parameters)
+- [ ] **Day 9** - Secret Auction (dictionaries)
+- [ ] **Day 10** - Calculator (functions with outputs)
+- [ ] **Day 11** - Blackjack (capstone beginner)
+- [ ] **Day 12** - Number Guessing (scope)
+- [ ] **Day 13** - Debugging (fixing errors)
+- [ ] **Day 14** - Higher Lower (review)
+- [ ] **Day 15** - Coffee Machine (local setup)
+- [ ] **Day 16** - OOP Coffee Machine (classes intro)
+- [ ] **Day 17** - Quiz Game (OOP practice)
+- [ ] **Day 18** - Hirst Painting (turtle graphics)
+- [ ] **Day 19** - Turtle Race (event listeners)
+- [ ] **Day 20** - Snake Game Part 1 (animation)
+- [ ] **Day 21** - Snake Game Part 2 (inheritance)
+- [ ] **Day 22** - Pong Game (game dev)
+- [ ] **Day 23** - Turtle Crossing (capstone)
+- [ ] **Day 24** - Mail Merge (files)
+- [ ] **Day 25** - US States Game (CSV, pandas)
+- [ ] **Day 26** - NATO Alphabet (comprehensions)
+- [ ] **Day 27** - Mile to Km (Tkinter GUI)
+- [ ] **Day 28** - Pomodoro Timer (GUI advanced)
+- [ ] **Day 29** - Password Manager (JSON, exceptions)
+- [ ] **Day 30** - Password Manager v2 (error handling)
+
+## 🟡 INTERMEDIATE (Days 31-60)
+
+- [ ] **Day 31** - Flash Cards (Tkinter capstone)
+- [ ] **Day 32** - Birthday Emailer (SMTP, datetime)
+- [ ] **Day 33** - ISS Tracker (APIs, HTTP)
+- [ ] **Day 34** - Quiz App GUI (API + GUI)
+- [ ] **Day 35** - Rain Alert (API keys, env vars)
+- [ ] **Day 36** - Stock News (multiple APIs)
+- [ ] **Day 37** - Habit Tracker (POST requests)
+- [ ] **Day 38** - Exercise Tracker (NLP)
+- [ ] **Day 39** - Flight Finder Part 1 (API chains)
+- [ ] **Day 40** - Flight Finder Part 2 (automation)
+- [ ] **Day 41** - HTML Intro (web basics)
+- [ ] **Day 42** - HTML Intermediate (forms, tables)
+- [ ] **Day 43** - CSS Intro (styling)
+- [ ] **Day 44** - CSS Intermediate (flexbox, grid)
+- [ ] **Day 45** - Web Scraping 1 (BeautifulSoup)
+- [ ] **Day 46** - Spotify Playlist (scraping + API)
+- [ ] **Day 47** - Amazon Price Tracker (scraping)
+- [ ] **Day 48** - Selenium Intro (automation)
+- [ ] **Day 49** - Job Application Bot (Selenium)
+- [ ] **Day 50** - Tinder Bot (automation capstone)
+- [ ] **Day 51** - Speed Test Bot (Selenium + API)
+- [ ] **Day 52** - Instagram Bot (social automation)
+- [ ] **Day 53** - Data Entry Automation (scraping + sheets)
+- [ ] **Day 54** - Flask Intro (web server)
+- [ ] **Day 55** - Flask Routing (decorators)
+- [ ] **Day 56** - Flask Rendering (Jinja)
+- [ ] **Day 57** - Jinja Templates (inheritance)
+- [ ] **Day 58** - Bootstrap (responsive design)
+- [ ] **Day 59** - Blog Part 1 (multi-page)
+- [ ] **Day 60** - Blog Part 2 (forms)
+
+## 🔴 ADVANCED (Days 61-100)
+
+- [ ] **Day 61** - WTForms (validation)
+- [ ] **Day 62** - Flask Advanced (patterns)
+- [ ] **Day 63** - SQLite (databases)
+- [ ] **Day 64** - Top Movies (CRUD)
+- [ ] **Day 65** - Web Design (UX/UI)
+- [ ] **Day 66** - RESTful APIs (REST)
+- [ ] **Day 67** - Blog API (build API)
+- [ ] **Day 68** - Authentication (passwords)
+- [ ] **Day 69** - Blog with Users (relationships)
+- [ ] **Day 70** - Deploy (Git, GitHub)
+- [ ] **Day 71** - Data Exploration (Pandas, NumPy)
+- [ ] **Day 72** - Data Viz (Matplotlib)
+- [ ] **Day 73** - Pandas Advanced (grouping)
+- [ ] **Day 74** - Google Trends (time series)
+- [ ] **Day 75** - Plotly (interactive viz)
+- [ ] **Day 76** - NumPy (arrays)
+- [ ] **Day 77** - Linear Regression (ML basics)
+- [ ] **Day 78** - Seaborn (statistical plots)
+- [ ] **Day 79** - Multivariable Regression (ML)
+- [ ] **Day 80** - Statistics (t-tests)
+- [ ] **Day 81** - Portfolio Website (capstone)
+- [ ] **Day 82** - Morse Code (strings)
+- [ ] **Day 83** - Tic Tac Toe (game logic)
+- [ ] **Day 84** - Image Watermarker (Pillow)
+- [ ] **Day 85** - Typing Test (Tkinter)
+- [ ] **Day 86** - Breakout Game (game physics)
+- [ ] **Day 87** - Cafe Website (full-stack)
+- [ ] **Day 88** - Todo List (CRUD)
+- [ ] **Day 89** - Disappearing Text (timers)
+- [ ] **Day 90** - PDF Audiobook (text-to-speech)
+- [ ] **Day 91** - Color Palette (clustering)
+- [ ] **Day 92** - Custom Scraper (your choice)
+- [ ] **Day 93** - Custom Automation (your choice)
+- [ ] **Day 94** - Space Invaders (game dev)
+- [ ] **Day 95** - Custom API (your choice)
+- [ ] **Day 96** - E-commerce (payments)
+- [ ] **Day 97** - Custom Website (your idea)
+- [ ] **Day 98** - Data Analysis (your data)
+- [ ] **Day 99** - Automation Project (your idea)
+- [ ] **Day 100** - Portfolio (showcase all)
+
+---
+
+## 🎉 DONE!
+
+**Completed:** ___________  
+**Total Days:** ___________
+
+**Next:** Build 3 portfolio projects from scratch! 🚀
