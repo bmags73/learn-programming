@@ -6,6 +6,7 @@ My Obsidian knowledge base for programming learning!
 
 ## Structure
 - c/ - C Programming notes
+- python/ - Python Programming notes
 - **cheatsheets/** - Quick reference guides
 - **daily/** - Daily learning notes
 - **projects/** - Project documentation
@@ -14,7 +15,7 @@ My Obsidian knowledge base for programming learning!
 ## View Options
 1. **GitHub**: Browse directly on GitHub (renders markdown)
 2. **Obsidian**: Clone repo and open `vault/` folder
-3. **Raw**: Any markdown editor
+3. **Raw**: Any markdown editor (I'm using NeoVIM)
 
 ## How to Use My Vault
 1. Clone the repo: `git clone git@github.com:bmags73/learn-programming.git`

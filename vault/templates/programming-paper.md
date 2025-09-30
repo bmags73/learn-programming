@@ -17,7 +17,7 @@
 {% if annotation.comment %}
 💭 **My Note**: {{annotation.comment}}
 {% endif %}
-{% endif %}
+[[links]]{% endif %}
 {% endfor %}
 
 ### Code to Try
